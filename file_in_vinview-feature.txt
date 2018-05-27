@@ -1,3 +1,4 @@
+let's look at merge conflict scenario
 I am there too:vinaydhegde
 #This is a sample file
 my first line
